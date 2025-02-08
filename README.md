@@ -9,7 +9,7 @@
   - <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="20"/> C#
   - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="20"/> C++
   
-- **Среда разработки:** <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="Visual Studio Code Logo" width="20" height="20">"  Visual Studio Code
+- **Среда разработки:** <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="Visual Studio Code Logo" width="20" height="20"> Visual Studio Code
 
 
 
