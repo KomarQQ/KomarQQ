@@ -15,5 +15,5 @@
 
 ## 📫 Как со мной связаться
 
-- <img src="https://img.icons8.com/?size=100&id=A4uyUh8LBg90&format=png&color=000000" alt="Telegram" width="20"/> **Telegram** `Временно нету`
+- <img src="https://img.icons8.com/?size=100&id=A4uyUh8LBg90&format=png&color=000000" alt="Telegram" width="20"/> **Telegram** `@EtaKomarQQ`
 - <img src="https://img.icons8.com/?size=100&id=30888&format=png&color=000000" alt="Discord" width="20"/> **Discord:** `voidx_metro`
